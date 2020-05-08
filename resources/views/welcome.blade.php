@@ -239,7 +239,7 @@
                     title: 'Obrigado!',
                     text: 'Recebemos a sua solicitação de orçamento!',
                     })
-                    document.getElementById("contactForm").reset();
+
                 $.ajax({
                     url: "{{ route("orcamento") }}",
                     type: "post",
