@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
 
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#vantagens">Vantagens</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#vantagens">Garantias</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#servicos">Serviços</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contato</a></li>
                     </ul>
