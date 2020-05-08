@@ -241,7 +241,7 @@
                     })
 
                 $.ajax({
-                    url: "{{ https://snapdev.herokuapp.com/orcamento' }}",
+                    url: "https://snapdev.herokuapp.com/orcamento",
                     type: "post",
                     data: $(this).serialize(),
                     dataType: "json",
