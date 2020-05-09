@@ -18,7 +18,7 @@ Route::get('/', function () {
 })->name('welcome');
 
 
-Route::post('/orcamento', 'OrcamentoController@store')->name('orcamento');
+
 
 
 
