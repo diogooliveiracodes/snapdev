@@ -241,7 +241,7 @@
                     })
 
                 $.ajax({
-                    url: "http://192.168.25.55:8000/api/orcamento",
+                    url: "http://www.snapdev.com.br/api/orcamento",
                     type: "post",
                     data: $(this).serialize(),
                     dataType: "json",
