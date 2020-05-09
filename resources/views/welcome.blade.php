@@ -241,7 +241,7 @@
                     })
 
                 $.ajax({
-                    url: '{{ route("orcamento") }}',
+                    url: "http://snapdev.com.br/orcamento",
                     type: "post",
                     data: $(this).serialize(),
                     dataType: "json",
