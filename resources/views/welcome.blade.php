@@ -241,7 +241,7 @@
                     })
 
                 $.ajax({
-                    url: {{ route('orcamento') }},
+                    url: '{{ route("orcamento") }}',
                     type: "post",
                     data: $(this).serialize(),
                     dataType: "json",
