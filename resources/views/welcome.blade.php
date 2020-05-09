@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
 
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#vantagens">Garantias</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#garantias">Garantias</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#servicos">Serviços</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contato</a></li>
                     </ul>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 font-weight-light mb-5">Criar um site é essencial para que a sua empresa ganhe mais visibilidade e conquiste um número maior de clientes para o seu negócio.</p>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#vantagens">Saiba Mais</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#garantias">Saiba Mais</a>
                     </div>
                 </div>
             </div>
@@ -57,8 +57,8 @@
 </div>
 
 
-        <!-- vantagens-->
-        <section class="page-section" id="vantagens">
+        <!-- garantias-->
+        <section class="page-section" id="garantias">
             <div class="container">
                 <h2 class="text-center mt-0">Garantias</h2>
                 <hr class="divider my-4" />
