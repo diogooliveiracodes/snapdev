@@ -241,7 +241,7 @@
                     })
 
                 $.ajax({
-                    url: "https://snapdev.com.br/orcamento",
+                    url: "snapdev.com.br/orcamento",
                     type: "post",
                     data: $(this).serialize(),
                     dataType: "json",
