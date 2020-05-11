@@ -1,4 +1,4 @@
-<a class="navbar-brand js-scroll-trigger" href="www.snapdev.com.br"> <img src="http://www.snapdev.com.br/img/logo.png" alt="" style="height: 40px"> </a>
+<a class="navbar-brand js-scroll-trigger" href="www.snapdev.com.br"> <img src="http://www.snapdev.com.br/img/logo.png" alt="" height: 40px> </a>
 
 <h1> webpage portfólio de desenvolvimento de sites </h1>
 
