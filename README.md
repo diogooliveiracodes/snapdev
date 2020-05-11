@@ -1,4 +1,4 @@
-<a href="www.snapdev.com.br"> <img src="http://www.snapdev.com.br/img/logo.png" height= "70"></a>
+<a href="http://www.snapdev.com.br"> <img src="http://www.snapdev.com.br/img/logo.png" height= "70"></a>
 
 <h1> webpage portfólio de desenvolvimento de sites </h1>
 
