@@ -1,6 +1,4 @@
-<a href="http://www.snapdev.com.br"> <img src="http://www.snapdev.com.br/img/logo.png" height= "70"></a>
-
-<h1> webpage portfólio de desenvolvimento de sites </h1>
+<h1> webpage/blog desenvolvida para uma loja de celulares </h1>
 
 <h4>Tecnologias adotadas:</h4>
 
