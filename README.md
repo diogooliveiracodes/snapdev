@@ -1,4 +1,5 @@
-<h1> webpage/blog desenvolvida para uma loja de celulares </h1>
+<img src="https://www.snapdev.com.br/img/logo.png">
+<h1> webpage portfólio de desenvolvimento de sites </h1>
 
 <h4>Tecnologias adotadas:</h4>
 
