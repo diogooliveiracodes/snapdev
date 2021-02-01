@@ -1,6 +1,7 @@
 <img src="https://www.snapdev.com.br/img/logo.png">
 
-<h1> webpage portfólio de desenvolvimento de sites </h1>
+# Webpage portfólio de desenvolvimento de sites
+Este é o portal institucional da empresa Snapdev. <br>
 
 ## Funcionalidades
 1. Conexão com whatsapp business.
